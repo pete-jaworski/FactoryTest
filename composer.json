@@ -1,0 +1,13 @@
+{
+    "name": "piotrjaworski/factorytest",
+    "version": "1.0.0", 
+    "license": "MIT",
+    
+    "require": {
+         
+    },
+    "autoload": {
+        "psr-4": { "PiotrJaworski\\FactoryTest\\": "includes/"} 
+    }    
+
+}
