@@ -1,5 +1,5 @@
 <?php
-namespace PiotrJaworski\Car\Volvo;
+namespace PiotrJaworski\FactoryTest\Car\Volvo;
 
 class FabrykaVolvo extends \PiotrJaworski\Car\FabrykaAut
 {

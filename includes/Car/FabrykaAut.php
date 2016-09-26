@@ -1,5 +1,5 @@
 <?php
-namespace PiotrJaworski\Car;
+namespace PiotrJaworski\FactoryTest\Car;
 
 abstract class FabrykaAut
 {   

@@ -1,5 +1,5 @@
 <?php
-namespace PiotrJaworski\Car\Skoda;
+namespace PiotrJaworski\FactoryTest\Car\Skoda;
 
 class Skoda
 {

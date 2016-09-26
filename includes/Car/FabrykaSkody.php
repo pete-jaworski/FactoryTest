@@ -1,12 +1,12 @@
 <?php
-namespace PiotrJaworski\Car\Skoda;
+namespace PiotrJaworski\FactoryTest\Car\Skoda;
 
-class FabrykaSkody extends \PiotrJaworski\Car\FabrykaAut
+class FabrykaSkody extends \PiotrJaworski\FactoryTest\Car\FabrykaAut
 {
 
      public function produkuj()
      {
-         return new \PiotrJaworski\Car\Skoda\Skoda();
+         return new \PiotrJaworski\FactoryTest\Car\Skoda\Skoda();
      }
     
     
